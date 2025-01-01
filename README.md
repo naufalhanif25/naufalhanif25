@@ -21,6 +21,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naufalhanif25&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+# ❤️ Support us:
+<h5>
+  <a href="https://saweria.co/minkudeveloper" target="_blank" style="justify: center;"> 
+    <button>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2n797tizOh5Lk4p0xeQsYjsVkW6mZ7uN4BipecBl7My2s4LFc-sU_MGhrz-mS4s5k6N8&usqp=CAU" alt="Donate via Saweria" style="width: 200px; height: 120px; vertical-align: middle;">
+    </button> 
+  </a>
+</h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/minkudev" target="_blank" style="justify: center;">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="width: 160px; heigh: 64px; vertical-align: middle;" >
+  </a>
+</h5>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=naufalhanif25&icon=0&color=1)](https://visitcount.itsvg.in)
 
