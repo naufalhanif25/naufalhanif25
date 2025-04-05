@@ -1,7 +1,7 @@
 ## 💫 About Me
 👨🏻‍💻 I'm a front end developer<br>🌱 I'm currently learning<br>🔭 I like finding out new things<br><br>But when the code has an error, then I will...<br>
 <div align="center">
-  <img src="https://c.tenor.com/41I-iMyClCgAAAAd/tenor.gif" alt="Tenor GIF" width="200px"/>
+  <img src="https://c.tenor.com/41I-iMyClCgAAAAd/tenor.gif" alt="Tenor GIF" width="280px"/>
 </div>
 
 ## 🌐 Socials
