@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://c.tenor.com/41I-iMyClCgAAAAd/tenor.gif" alt="Tenor GIF" />
+</div>
+
 ## 💫 About Me
 👨🏻‍💻 I'm a front end developer<br>🌱 I'm currently learning<br>🔭 I like finding out new things
 
