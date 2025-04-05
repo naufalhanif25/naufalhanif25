@@ -1,10 +1,8 @@
+## 💫 About Me
+👨🏻‍💻 I'm a front end developer<br>🌱 I'm currently learning<br>🔭 I like finding out new things<br><br>But when the code has an error, then I will...<br>
 <div align="center">
   <img src="https://c.tenor.com/41I-iMyClCgAAAAd/tenor.gif" alt="Tenor GIF" />
 </div>
-
-## 💫 About Me
-👨🏻‍💻 I'm a front end developer<br>🌱 I'm currently learning<br>🔭 I like finding out new things
-
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fal.hnf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-hanif-4a17a3315) 
