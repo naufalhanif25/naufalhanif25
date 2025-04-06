@@ -16,6 +16,8 @@
 ## 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalhanif25&theme=default&hide_border=false" />
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
