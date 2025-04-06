@@ -15,10 +15,10 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.4em;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 0.4em; width: 100%;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4em; width: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalhanif25&theme=default&hide_border=false" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+        <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </div>
 </div>
 
