@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalhanif25&theme=default&hide_border=false&card_height=180" />
+    <img height="180" src="https://streak-stats.demolab.com/?user=naufalhanif25&theme=default&hide_border=false&card_height=180" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=350" />
 </div>
 
