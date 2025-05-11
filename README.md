@@ -21,5 +21,5 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false" />
+    <img src="https://github-profile-trophy.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false&&margin-w=4" />
 </div>
