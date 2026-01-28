@@ -3,7 +3,7 @@
 </div>
 
 ## 💫 About Me
-👨🏻‍💻 I'm a front end developer<br>
+👨🏻‍💻 I'm a front end web developer<br>
 🌱 I'm currently learning<br>
 🔭 I like finding out new things
 
@@ -15,13 +15,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <!-- <img height="180" src="https://streak-stats.demolab.com/?user=naufalhanif25&theme=default&hide_border=false&card_height=180" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=350" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false&&margin-w=4&row=1&column=4" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false&&margin-w=4&row=1&column=4" />
 </div>
 
 ## 🎮 Contributions
