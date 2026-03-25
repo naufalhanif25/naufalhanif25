@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false&&margin-w=4&row=1&column=4" />
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false&&margin-w=4&row=1&column=4" />
 </div>
 
 ## 🎮 Contributions
