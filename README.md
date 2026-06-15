@@ -17,25 +17,15 @@ pub enum Expertise {
 }
 ```
 
-* **Web Development**
-    
-    I build fast and interactive full-stack web applications utilizing the `JavaScript` and `TypeScript` ecosystems. My tech stack includes `React`, `Next.js`, and `TailwindCSS` for modern user interfaces, combined with `Node.js`, `Express`, and `Bun` for scalable backend architectures, alongside `MongoDB`, `Supabase`, and `Docker` for data management and containerization.
+* **Web Development:** I build fast and interactive full-stack web applications utilizing the `JavaScript` and `TypeScript` ecosystems. My tech stack includes `React`, `Next.js`, and `TailwindCSS` for modern user interfaces, combined with `Node.js`, `Express`, and `Bun` for scalable backend architectures, alongside `MongoDB`, `Supabase`, and `Docker` for data management and containerization.
 
-* **Android Development**
+* **Android Development:** I design and develop mobile applications using `Kotlin` or `Java` to deliver robust, high-performance, and native user experiences on the Android platform.
 
-    I design and develop mobile applications using `Kotlin` or `Java` to deliver robust, high-performance, and native user experiences on the Android platform.
+* **Systems Programming:** Driven by an interest in low-level programming and system efficiency, I regularly utilize `C`, `C++`, and `Rust` to build high-performance Command Line Interface (`CLI`) and Terminal User Interface (`TUI`) tools.
 
-* **Systems Programming**
+* **Game Development:** I explore the creation of interactive environments and virtual experiences, developing both 2D and 3D games using the `Unity` game engine and `C#` programming.
 
-    Driven by an interest in low-level programming and system efficiency, I regularly utilize `C`, `C++`, and `Rust` to build high-performance Command Line Interface (`CLI`) and Terminal User Interface (`TUI`) tools.
-
-* **Game Development**
-
-    I explore the creation of interactive environments and virtual experiences, developing both 2D and 3D games using the `Unity` game engine and `C#` programming.
-
-* **AI & Machine Learning**
-
-    I implement predictive models, computer vision solutions, and data analysis pipelines using `Python`, leveraging industry-standard libraries such as `TensorFlow`, `PyTorch`, `YOLO`, `Pandas`, and `OpenCV`.
+* **AI & Machine Learning:** I implement predictive models, computer vision solutions, and data analysis pipelines using `Python`, leveraging industry-standard libraries such as `TensorFlow`, `PyTorch`, `YOLO`, `Pandas`, and `OpenCV`.
 
 ### Language & Technology Metrics
 
