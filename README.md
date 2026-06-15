@@ -1,31 +1,27 @@
-<div align="center">
-    <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAd/cat-coding.gif" />
-</div>
+## Hi, I am Naufal Hanif
 
-## 💫 About Me
-👨🏻‍💻 I'm a front end web developer<br>
-🌱 I'm currently learning<br>
-🔭 I like finding out new things
+I am an undergraduate Informatics student at Syiah Kuala University with a deep interest in software engineering, ranging from low-level systems to artificial intelligence. My development workflow focuses on building efficient, interactive, and high-performance digital solutions across multiple platforms.
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fal.hnf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-hanif-4a17a3315) 
+### Core Areas of Expertise
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+* **Web Development**
+    I build fast and interactive full-stack web applications utilizing the JavaScript and TypeScript ecosystems. My tech stack includes React, Next.js, and TailwindCSS for modern user interfaces, combined with Node.js, Express, and Bun for scalable backend architectures, alongside MongoDB, Supabase, and Docker for data management and containerization.
 
-## 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=350" />
-</div>
+* **Android Development**
+    I design and develop mobile applications using Kotlin or Java to deliver robust, high-performance, and native user experiences on the Android platform.
 
-## 🏆 GitHub Trophies
-<div align="center">
-    <img src="https://github-profile-trophy-kannan.vercel.app/?username=naufalhanif25&title=-Issues,-Followers,-Stars,-Experience,-Reviews&theme=default&no-frame=false&no-bg=false&&margin-w=4&row=1&column=4" />
-</div>
+* **Systems Programming**
+    Driven by an interest in low-level programming and system efficiency, I regularly utilize C, C++, and Rust to build high-performance Command Line Interface (CLI) and Terminal User Interface (TUI) tools.
 
-## 🎮 Contributions
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naufalhanif25/naufalhanif25/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naufalhanif25/naufalhanif25/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/naufalhanif25/naufalhanif25/output/pacman-contribution-graph.svg">
-</picture>
+* **Game Development**
+    I explore the creation of interactive environments and virtual experiences, developing both 2D and 3D games using the Unity game engine and C# programming.
+
+* **AI & Machine Learning**
+    I implement predictive models, computer vision solutions, and data analysis pipelines using Python, leveraging industry-standard libraries such as TensorFlow, PyTorch, YOLO, Pandas, and OpenCV.
+
+### Collaboration & Exploration
+
+As a developer who thrives on continuous learning, I am passionate about exploring emerging technologies and expanding my technical horizons. I am highly open to collaborating on open-source initiatives, contributing to complex software development projects, and partnering with fellow developers to build innovative solutions.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
