@@ -24,4 +24,9 @@ I am an undergraduate Informatics student at Syiah Kuala University with a deep 
 As a developer who thrives on continuous learning, I am passionate about exploring emerging technologies and expanding my technical horizons. I am highly open to collaborating on open-source initiatives, contributing to complex software development projects, and partnering with fellow developers to build innovative solutions.
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
