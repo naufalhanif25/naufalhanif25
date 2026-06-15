@@ -19,9 +19,12 @@ I am an undergraduate Informatics student at Syiah Kuala University with a deep 
 * **AI & Machine Learning**
     I implement predictive models, computer vision solutions, and data analysis pipelines using Python, leveraging industry-standard libraries such as TensorFlow, PyTorch, YOLO, Pandas, and OpenCV.
 
+### Language & Technology Metrics
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=github_dark_dimmed&hide_border=&border_radius=8&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=480" />
+</div>
+
 ### Collaboration & Exploration
 
 As a developer who thrives on continuous learning, I am passionate about exploring emerging technologies and expanding my technical horizons. I am highly open to collaborating on open-source initiatives, contributing to complex software development projects, and partnering with fellow developers to build innovative solutions.
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
