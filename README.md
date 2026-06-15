@@ -1,8 +1,21 @@
 ## Hi, I am Naufal Hanif
 
+> "Talk is cheap. Show me the code." — Linus Torvalds
+
 I am an undergraduate Informatics student at Syiah Kuala University with a deep interest in software engineering, ranging from low-level systems to artificial intelligence. My development workflow focuses on building efficient, interactive, and high-performance digital solutions across multiple platforms.
 
 ### Core Areas of Expertise
+
+```rust
+// Driving digital solutions through multi-platform development
+pub enum Expertise {
+    WebDevelopment,
+    AndroidDevelopment,
+    SystemsProgramming,
+    GameDevelopment,
+    AiMachineLearning,
+}
+```
 
 * **Web Development**
     I build fast and interactive full-stack web applications utilizing the JavaScript and TypeScript ecosystems. My tech stack includes React, Next.js, and TailwindCSS for modern user interfaces, combined with Node.js, Express, and Bun for scalable backend architectures, alongside MongoDB, Supabase, and Docker for data management and containerization.
