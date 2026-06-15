@@ -2,6 +2,8 @@
 
 I am an undergraduate Informatics student at Syiah Kuala University with a deep interest in software engineering, ranging from low-level systems to artificial intelligence. My development workflow focuses on building efficient, interactive, and high-performance digital solutions across multiple platforms.
 
+---
+
 ### Core Areas of Expertise
 
 * **Web Development**
@@ -19,11 +21,15 @@ I am an undergraduate Informatics student at Syiah Kuala University with a deep 
 * **AI & Machine Learning**
     I implement predictive models, computer vision solutions, and data analysis pipelines using Python, leveraging industry-standard libraries such as TensorFlow, PyTorch, YOLO, Pandas, and OpenCV.
 
+---
+
 ### Language & Technology Metrics
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhanif25&theme=github_dark_dimmed&hide_border=&border_radius=8&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=480" />
 </div>
+
+---
 
 ### Collaboration & Exploration
 
