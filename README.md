@@ -21,7 +21,7 @@ pub enum Expertise {
 
 * **Android Development:** I design and develop mobile applications using `Kotlin` or `Java` to deliver robust, high-performance, and native user experiences on the Android platform.
 
-* **Systems Programming:** Driven by an interest in low-level programming and system efficiency, I regularly utilize `C`, `C++`, and `Rust` to build high-performance Command Line Interface (`CLI`) and Terminal User Interface (`TUI`) tools.
+* **Systems Programming:** Driven by an interest in low-level programming and system efficiency, I regularly utilize `C`, `C++`, `Rust`, and `Assembly` to build high-performance Command Line Interface (`CLI`) and Terminal User Interface (`TUI`) tools.
 
 * **Game Development:** I explore the creation of interactive environments and virtual experiences, developing both 2D and 3D games using the `Unity` game engine and `C#` programming.
 
